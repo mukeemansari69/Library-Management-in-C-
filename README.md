@@ -9,15 +9,23 @@ A simple and efficient Library Management System written in C++, designed to hel
 📌 Features
 
 ✅ Add, remove, and update book records
+
 ✅ Issue and return books
+
 ✅ Maintain a record of issued books
+
 ✅ Search for books by title, author, or ID
+
 ✅ Command-line interface for user interaction
+
 ✅ Uses Makefile for easy compilation
+
 ✅ Well-structured OOP-based design with classes
 
 
+
 🛠️ Installation & Compilation
+
 
 
 Prerequisites
@@ -88,9 +96,13 @@ Displaying All Books: View a list of all available books in the library.
 
 
 🔹 Implement a GUI version using Qt or another framework
+
 🔹 Add a database (MySQL, SQLite) for persistent storage
+
 🔹 Improve the search functionality with filtering and sorting
+
 🔹 Add user authentication for role-based access
+
 
 🏷️ License
 
